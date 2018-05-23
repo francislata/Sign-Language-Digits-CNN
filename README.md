@@ -19,3 +19,6 @@ to grayscale images of size 64 x 64.
 
 ## Technologies used
 In this project, I will be using **Python** as the programming language of choice. Also, I will use the **Keras** framework to create the layers of the CNN model.
+
+## Credits
+The dataset and its original source can be found through Kaggle's website [here](https://www.kaggle.com/ardamavi/sign-language-digits-dataset/data).

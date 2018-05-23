@@ -1,0 +1,4 @@
+This project requires the following in order to run:
+1) Numpy
+2) Keras
+3) Python 3.x and later
