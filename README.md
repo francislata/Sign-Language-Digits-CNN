@@ -18,4 +18,4 @@ This dataset has been provided by **Turkey Ankara Ayrancı Anadolu High School**
 to grayscale images of size 64 x 64.
 
 ## Technologies used
-In this project, I will be using **Python** as the programming language of choice. I will use the **Keras** framework to create the layers of the CNN model.
+In this project, I will be using **Python** as the programming language of choice. Also, I will use the **Keras** framework to create the layers of the CNN model.
