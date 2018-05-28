@@ -55,6 +55,7 @@ if __name__ == '__main__':
 	print('Accuracy on test set is:', metrics[-1])
 	print()
 
-	print('Plotting training history...')
+	# Uncomment to see the plot of the training and validation losses (loss.png)
+	# print('Plotting training history...')
 	# plot_training_history(training_history)
-	print('Done')
+	# print('Done')
