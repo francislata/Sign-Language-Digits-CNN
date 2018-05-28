@@ -65,4 +65,4 @@ The loss function for the training and validation sets is shown here:
 ## Credits
 The dataset and its original source can be found through Kaggle's website [here](https://www.kaggle.com/ardamavi/sign-language-digits-dataset/data).
 
-The arXiv paper that refers to the VGG16 network found [here](https://arxiv.org/pdf/1409.1556.pdf).
+The arXiv paper that refers to the VGG16 network can be found [here](https://arxiv.org/pdf/1409.1556.pdf).
